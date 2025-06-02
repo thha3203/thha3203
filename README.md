@@ -2,7 +2,7 @@
 
 - 🧑🏽‍💻 Software Engineer
 - 🪖 Former Marine
-- ⚡ Fun fact: I learned how to swim from a dragonfly
+- ⚡ AI Enthusiast
 
 ### Languages & Tools
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
